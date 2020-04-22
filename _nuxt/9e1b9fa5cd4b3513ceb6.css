@@ -1,0 +1,1 @@
+.timeslot--subgrid-2col{display:grid;grid-template-columns:70px 1fr;-webkit-box-align:center;align-items:center}@media only screen and (max-width:576px){.timeslot--subgrid-2col .select,.timeslot--subgrid-2col input,.timeslot--subgrid-2col label{grid-column:span 2}}
